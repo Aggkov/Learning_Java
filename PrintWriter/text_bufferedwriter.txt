@@ -1,0 +1,4 @@
+1	these	1.14
+2	are	4.12
+3	some	1.77
+4	data	1.94
